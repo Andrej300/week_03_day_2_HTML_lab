@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body > header{
+    background-color: rgb(100, 100, 233);
+    color: white;
+}
+
+body > header > nav > ul > li > a{
+    color: white;
+    margin-right: 10px;    
+}
+
+body > header > nav > ul {
+    display:flex;
+    list-style-type: none;
+    
+}
+
+body > header > nav{
+    
+}
